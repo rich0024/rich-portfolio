@@ -1,5 +1,6 @@
 import './App.css';
-import Bio from './containers/bio.js'
+import Bio from './containers/bio.js';
+import Links from './containers/links.js'
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       </header>
       <p>test</p>
       <Bio/>
+      <Links/>
     </div>
   );
 }
