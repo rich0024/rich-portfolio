@@ -1,5 +1,5 @@
 import './App.css';
-import cropped from './assets/cropped.png'
+import Bio from './containers/bio.js'
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
       </header>
       <p>test</p>
-      <img src={cropped}></img>
+      <Bio/>
     </div>
   );
 }
