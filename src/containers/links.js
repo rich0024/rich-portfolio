@@ -5,6 +5,7 @@ export class links extends Component {
         return (
             <div>
                 <a href='https://www.linkedin.com/in/ryance/'>LinkedIn</a>
+                ||<a href='https://github.com/rich0024'>Github</a>
             </div>
         )
     }
