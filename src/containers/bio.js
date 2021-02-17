@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import cropped from '../assets/cropped.png'
+import resume from '../assets/resume.pdf'
 
 export class bio extends Component {
     render() {
@@ -7,6 +8,8 @@ export class bio extends Component {
             <div>
                 <p>Hello</p>
                 <img src={cropped}></img>
+                <br></br>
+                <embed src={resume} width="800px" height="750px"></embed>
             </div>
         )
     }
