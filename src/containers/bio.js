@@ -6,7 +6,6 @@ export class bio extends Component {
     render() {
         return (
             <div>
-                <p>Hello</p>
                 <img src={cropped}></img>
                 <br></br>
                 <embed src={resume} width="800px" height="1068px"></embed>

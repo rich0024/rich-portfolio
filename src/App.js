@@ -8,8 +8,9 @@ function App() {
       <header className="App-header">
       </header>
       <h1>Richard Yance</h1>
-      <Bio/>
       <Links/>
+      <Bio/>
+
     </div>
   );
 }
