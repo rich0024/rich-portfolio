@@ -9,7 +9,7 @@ export class bio extends Component {
                 <p>Hello</p>
                 <img src={cropped}></img>
                 <br></br>
-                <embed src={resume} width="800px" height="750px"></embed>
+                <embed src={resume} width="800px" height="1068px"></embed>
             </div>
         )
     }
