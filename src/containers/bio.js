@@ -10,7 +10,7 @@ export class bio extends Component {
                 <br></br>
                 <h3>About Richard</h3>
                 <br></br>
-                <p>With a BA in integrated mathematics and science (biology focus) from William Patterson,
+                <p>With a BA in integrated mathematics and science (biology focus) from William Paterson,
 I began my career life as a mortgage loan processor. As I continued processing, I realized that there is nothing
 stopping me from moving up and getting my own loan originator license. As I continued to help people refinance or
 purchase their home, I found that relying on commissions for income was not the most reliable, so I decided to learn 
