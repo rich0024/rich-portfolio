@@ -28,8 +28,7 @@ export class projects extends Component {
                     <li>-Applied omniauth for user login with github</li>
                     <li>-Maintained MVC structure using Ruby on Rails</li>
                     <li>-Enabled the user to create, read, update and delete (CRUD) workout routines</li>
-                    <li>-Used foundational code to create classes, class methods, instance methods, while and for loops,
-array iteration, syntax, string interpolation, and object orientation</li>
+                    <li>-Used foundational code to create classes, class methods, instance methods, while and for loops, array iteration, syntax, string interpolation, and object orientation</li>
                 </ul>
             </div>
         )
