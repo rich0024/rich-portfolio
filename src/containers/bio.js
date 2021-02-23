@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import cropped from '../assets/cropped.png'
-import resume from '../assets/resume.pdf'
 
 export class bio extends Component {
     render() {
@@ -19,7 +18,6 @@ and possibilities it brings. Now, as an eccentric creative software engineer wit
 passionate about improving and assisting companies, clients and teams with a limitless positive attitude and boundaryless 
 approach to achieving goals, solving problems, and creating efficiencies.
 </p>
-                <embed src={resume} width="800px" height="1068px"></embed>
             </div>
         )
     }
