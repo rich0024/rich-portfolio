@@ -39,14 +39,18 @@ class Group1 extends React.Component {
         <div className="auto-flex2">
           <div className="auto-flex1">
             <div className="linked-in mitr-semi-bold-scooter-18px">{linkedin}</div>
-            <div className="entypo-sociallinkedin smart-layers-pointers ">
+            <div className="entypo-sociallinkedin smart-layers-pointers " >
+              <a href="https://www.linkedin.com/in/ryance/">
               <img className="vector" src={vector} />
               <img className="vector-1" src={vector2} />
+              </a>
             </div>
             <div className="overlap-group1">
               <div className="github mitr-semi-bold-scooter-18px">{github}</div>
               <div className="entypo-socialgithub smart-layers-pointers ">
+                <a href="https://github.com/rich0024">
                 <img className="vector-2 smart-layers-pointers " src={vector3} />
+                </a>
               </div>
             </div>
           </div>
