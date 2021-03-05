@@ -58,14 +58,18 @@ class Group1 extends React.Component {
             <div className="overlap-group">
               <div className="blog mitr-semi-bold-scooter-18px">{blog}</div>
               <div className="entypo-socialgi-hub-with-circle smart-layers-pointers ">
+                <a href='https://rich0024.github.io/'>
                 <img className="vector-3" src={vector4} />
+                </a>
               </div>
             </div>
             <div className="resume mitr-semi-bold-scooter-18px">{resume}</div>
             <div className="bidownload smart-layers-pointers ">
               <div className="overlap-group3">
+                <a href='https://drive.google.com/file/d/1pqdneSG4s_wRxju_yg3udsPbUJxPyr0v/view?usp=sharing'>
                 <img className="vector-4 smart-layers-pointers " src={vector5} />
                 <img className="vector-5" src={vector6} />
+                </a>
               </div>
             </div>
           </div>
