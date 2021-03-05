@@ -1,0 +1,238 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Mitr:600");
+* {
+  box-sizing: border-box;
+}
+.group-1 {
+  display: flex;
+  align-items: center;
+}
+.auto-flex {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 37px;
+  margin-top: 1px;
+  min-height: 162px;
+  width: 71px;
+}
+.auto-flex1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 170px;
+  width: 77px;
+}
+.auto-flex2 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 170px;
+  margin-right: 2px;
+  margin-top: 19px;
+  min-width: 185px;
+}
+.bidownload {
+  height: 34px;
+  margin-right: 9px;
+  margin-top: 8px;
+  pointer-events: auto;
+  transition: all 0.2s ease;
+  width: 46px;
+}
+.bidownload:hover {
+  transform: scale(1.1);
+}
+.blog {
+  left: 6px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+}
+.entypo-socialgi-hub-with-circle {
+  height: 56px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 26px;
+  transition: all 0.2s ease;
+  width: 51px;
+}
+.entypo-socialgi-hub-with-circle:hover {
+  transform: scale(1.1);
+}
+.entypo-socialgithub {
+  height: 63px;
+  left: 1px;
+  pointer-events: auto;
+  position: absolute;
+  top: 16px;
+  transition: all 0.2s ease;
+  width: 63px;
+}
+.entypo-socialgithub:hover {
+  transform: scale(1.1);
+}
+.entypo-sociallinkedin {
+  height: 43px;
+  margin-right: 2px;
+  margin-top: 1px;
+  pointer-events: auto;
+  position: relative;
+  transition: all 0.2s ease;
+  width: 43px;
+}
+.entypo-sociallinkedin:hover {
+  transform: scale(1.1);
+}
+.github {
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+}
+.group-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 339px;
+  width: 251px;
+}
+.linked-in {
+  letter-spacing: 0px;
+  min-height: 28px;
+  min-width: 77px;
+  text-align: center;
+}
+.mitr-semi-bold-azure-radiance-40px {
+  color: var(--azure-radiance);
+  font-family: "Mitr", Helvetica, Arial, serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 600;
+}
+.mitr-semi-bold-black-26px {
+  color: black;
+  font-family: "Mitr", Helvetica, Arial, serif;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+}
+.mitr-semi-bold-scooter-18px {
+  color: var(--scooter);
+  font-family: "Mitr", Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+}
+.name {
+  left: 38px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: 163px;
+}
+.overlap-group {
+  height: 82px;
+  margin-right: 10px;
+  position: relative;
+  width: 51px;
+}
+.overlap-group1 {
+  height: 79px;
+  margin-left: 1px;
+  margin-top: 19px;
+  position: relative;
+  width: 64px;
+}
+.overlap-group2 {
+  height: 150px;
+  position: relative;
+  width: 239px;
+}
+.overlap-group3 {
+  height: 39px;
+  position: relative;
+  top: -7px;
+}
+.resume {
+  letter-spacing: 0px;
+  margin-top: 10px;
+  min-height: 28px;
+  min-width: 71px;
+  text-align: center;
+}
+.software-engineer {
+  left: 0px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 109px;
+}
+.vector {
+  height: 39px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  width: 9px;
+}
+.vector-1 {
+  height: 28px;
+  left: 14px;
+  position: absolute;
+  top: 13px;
+  width: 27px;
+}
+.vector-2 {
+  height: 51px;
+  left: 2px;
+  pointer-events: auto;
+  position: absolute;
+  top: 6px;
+  transition: all 0.2s ease;
+  width: 59px;
+}
+.vector-2:hover {
+  transform: scale(1.1);
+}
+.vector-3 {
+  height: 54px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 49px;
+}
+.vector-4 {
+  height: 15px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 24px;
+  transition: all 0.2s ease;
+  width: 46px;
+}
+.vector-4:hover {
+  transform: scale(1.1);
+}
+.vector-5 {
+  height: 31px;
+  left: 12px;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+.yance {
+  left: 17px;
+  letter-spacing: 0px;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: 163px;
+}
+:root {
+  --azure-radiance: rgba(0, 178, 255, 1);
+  --scooter: rgba(51, 190, 233, 1);
+}
