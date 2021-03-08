@@ -1,0 +1,23 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+.desktop-3 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  padding: 95px 77px;
+}
+.desktop-3 .frame-5 {
+  height: 280px;
+  margin-top: 31px;
+  width: 693px;
+}
+.desktop-3 .frame-7 {
+  height: 248px;
+  margin-right: 181px;
+  margin-top: 31px;
+  width: 516px;
+}
+.desktop-3 .frame-8 {
+  height: 252px;
+  margin-right: 163px;
+  width: 552px;
+}
