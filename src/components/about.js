@@ -7,6 +7,7 @@ import reactIcon from '@iconify-icons/logos/react';
 import sqlIcon from '@iconify-icons/carbon/sql';
 import jsIcon from '@iconify-icons/grommet-icons/js';
 import css3 from '@iconify-icons/logos/css-3';
+import figmaIcon from '@iconify-icons/grommet-icons/figma';
 
 
 
@@ -47,6 +48,7 @@ class Desktop4 extends React.Component {
           <Icon icon={jsIcon} width="80" height="80"/>
           <Icon icon={sqlIcon} width="80" height="80"/>
           <Icon icon={css3} width="80" height="80"/>
+          <Icon icon={figmaIcon} width="80" height="80"/>
           </div>
         </div>
       </div>
