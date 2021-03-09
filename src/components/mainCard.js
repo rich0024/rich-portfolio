@@ -30,7 +30,13 @@ class Group1 extends React.Component {
     } = this.props;
 
     return (
+      <div>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
       <div className="group-1">
+
         <div className="overlap-group2">
           <h1 className="name mitr-semi-bold-azure-radiance-40px">{name}</h1>
           <div className="yance mitr-semi-bold-azure-radiance-40px">{yance}</div>
@@ -74,6 +80,7 @@ class Group1 extends React.Component {
             </div>
           </div>
         </div>
+      </div>
       </div>
     );
   }
