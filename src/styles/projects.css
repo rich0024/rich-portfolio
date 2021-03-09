@@ -1,23 +1,51 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Mitr:700");
+
 .desktop-3 {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.desktop-3 .flex-col {
   align-items: center;
   display: flex;
   flex-direction: column;
-  padding: 24px 77px;
+  margin-top: 95px;
+  min-height: 842px;
+  width: 715px;
 }
 .desktop-3 .frame-5 {
-  height: 200px;
+  align-self: flex-end;
+  height: 280px;
   margin-top: 31px;
   width: 693px;
 }
 .desktop-3 .frame-7 {
-  height: 200px;
-  margin-right: 181px;
+  height: 248px;
+  margin-left: 18px;
   margin-top: 31px;
   width: 516px;
 }
 .desktop-3 .frame-8 {
-  height: 200px;
-  margin-right: 163px;
-  width: 500px;
+  height: 252px;
+  width: 552px;
+}
+.desktop-3 .p-r-o-j-e-c-t-s {
+  letter-spacing: 0px;
+  margin-top: 152px;
+  min-height: 675px;
+  pointer-events: auto;
+  text-align: center;
+  transition: all 0.2s ease;
+}
+.desktop-3 .p-r-o-j-e-c-t-s:hover {
+  transform: translate(0, -5px);
+}
+.mitr-bold-black-48px {
+  color: black;
+  font-family: "Mitr", Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
 }
