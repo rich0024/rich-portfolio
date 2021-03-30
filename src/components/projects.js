@@ -22,14 +22,14 @@ export default Projects;
 
 class Desktop3 extends React.Component {
   render() {
-    const { pROJECTS, frame8, frame7, frame5 } = this.props;
+    const { pROJECTS } = this.props;
     return (
       <div className="desktop-3">
         <h1 className="p-r-o-j-e-c-t-s mitr-bold-black-48px animate-enter smart-layers-pointers ">{pROJECTS}</h1>
         <div className="flex-col">
 
           <div className='js-journal'>
-          <h1>Training Journal(javascript)</h1>
+          <h1 className='proj-title'>Training Journal(javascript)</h1>
           <a href="https://drive.google.com/file/d/1Iae5GWg_UZQ4vHRJ3WDZaidWk6wwb46u/view">Demo</a>-
           <a href="https://github.com/rich0024/TrainingJournal2">Github</a>
           <h2>SPA which allows the user to create and log a workout routine</h2>
@@ -39,7 +39,7 @@ class Desktop3 extends React.Component {
           </div>
 
           <div className='recipe'>
-          <h1>Recipe Book</h1>
+          <h1 className='proj-title'>Recipe Book</h1>
           <a href="https://drive.google.com/file/d/1bOysEO40yupx5xljQUtMLGxPuHuwOPKc/view">Demo</a>-
           <a href="https://github.com/rich0024/my-recipe-book">Github</a>-
           <a href="http://sleepy-fortress-33259.herokuapp.com/">Visit</a>
@@ -49,7 +49,7 @@ class Desktop3 extends React.Component {
           </div>
 
           <div className='rails-journal'>
-          <h1>Training Journal(javascript)</h1>
+          <h1 className='proj-title'>Training Journal(javascript)</h1>
           <a href="https://drive.google.com/file/d/1FXQ9gUdFAMwycyWnFQ60YekbwIzC0JiG/view">Demo</a>-
           <a href="https://github.com/rich0024/TrainingJournal">Github</a>
           <h2>A multi-page web application which allows the user to plan and track workout routines.</h2>
