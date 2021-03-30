@@ -18,7 +18,7 @@
 .desktop-3 .proj-title {
   color: var(--azure-radiance);
   font-family: "Mitr", Helvetica, Arial, serif;
-  font-size: 50px;
+  font-size: 30px;
   font-style: normal;
   font-weight: 600;
 }
@@ -30,6 +30,7 @@
   background-color: rgb(255, 255, 255);
   padding: 50px 50px;
   box-shadow: 10px 10px 18px #2e2e2e;
+  line-height: 1.2;
 }
 .desktop-3 .recipe {
   font-family: 'Montserrat', sans-serif;
@@ -39,6 +40,7 @@
   background-color: rgb(255, 255, 255);
   padding: 50px 50px;
   box-shadow: 10px 10px 18px #2e2e2e;
+  line-height: 1.2;
 }
 .desktop-3 .rails-journal {
   font-family: 'Montserrat', sans-serif;
@@ -48,6 +50,7 @@
   background-color: rgb(255, 255, 255);
   padding: 50px 50px;
   box-shadow: 10px 10px 18px #2e2e2e;
+  line-height: 1.2;
 }
 .desktop-3 .p-r-o-j-e-c-t-s {
   letter-spacing: 0px;
