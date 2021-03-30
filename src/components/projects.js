@@ -30,9 +30,8 @@ class Desktop3 extends React.Component {
 
           <div className='js-journal'>
           <h1>Training Journal(javascript)</h1>
-          <a href="https://drive.google.com/file/d/1Iae5GWg_UZQ4vHRJ3WDZaidWk6wwb46u/view">
-          <p>Demo</p>
-          </a>
+          <a href="https://drive.google.com/file/d/1Iae5GWg_UZQ4vHRJ3WDZaidWk6wwb46u/view">Demo</a> | 
+          <a href="https://github.com/rich0024/TrainingJournal2">Github</a>
           <h2>SPA which allows the user to create and log a workout routine</h2>
           <p>-Utilized Javascript asynchronicity to create a faster user experience</p>
           <p>-Implemented a local API and integrated with the front end</p>
@@ -41,8 +40,8 @@ class Desktop3 extends React.Component {
 
           <div className='recipe'>
           <h1>Recipe Book</h1>
-          <a href="https://drive.google.com/file/d/1bOysEO40yupx5xljQUtMLGxPuHuwOPKc/view">Demo</a> |
-          <a href="https://github.com/rich0024/my-recipe-book">Github</a> |
+          <a href="https://drive.google.com/file/d/1bOysEO40yupx5xljQUtMLGxPuHuwOPKc/view">Demo</a> | 
+          <a href="https://github.com/rich0024/my-recipe-book">Github</a> | 
           <a href="http://sleepy-fortress-33259.herokuapp.com/">Visit</a>
           <h2>React based project with user experience in mind which allows for sharing and scrolling of recipes</h2>
           <p>-SPA with React and Redux frontend, backend built with Ruby on Rails</p>
@@ -50,9 +49,14 @@ class Desktop3 extends React.Component {
           </div>
 
           <div className='rails-journal'>
-          <a href="https://drive.google.com/file/d/1FXQ9gUdFAMwycyWnFQ60YekbwIzC0JiG/view">
-          <img className="frame-5" src={frame5} />
-          </a>
+          <h1>Training Journal(javascript)</h1>
+          <a href="https://drive.google.com/file/d/1FXQ9gUdFAMwycyWnFQ60YekbwIzC0JiG/view">Demo</a> | 
+          <a href="https://github.com/rich0024/TrainingJournal">Github</a>
+          <h2>A multi-page web application which allows the user to plan and track workout routines.</h2>
+          <p>-Applied omniauth for user login with github</p>
+          <p>-Maintained MVC structure using Ruby on Rails</p>
+          <p>-Enabled the user to create, read, update and delete (CRUD) workout routines</p>
+          <p>-Used foundational code to create classes, class methods, instance methods, while and for loops, array iteration, syntax, string interpolation, and object orientation</p>
           </div>
         </div>
       </div>

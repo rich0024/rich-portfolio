@@ -33,9 +33,14 @@
   padding: 50px 50px;
   box-shadow: 10px 10px 18px #2e2e2e;
 }
-.desktop-3 .frame-8 {
-  height: 252px;
-  width: 552px;
+.desktop-3 .rails-journal {
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 25px;
+  margin: auto;
+  border: 8px solid rgb(27, 209, 255);
+  background-color: rgb(255, 255, 255);
+  padding: 50px 50px;
+  box-shadow: 10px 10px 18px #2e2e2e;
 }
 .desktop-3 .p-r-o-j-e-c-t-s {
   letter-spacing: 0px;
