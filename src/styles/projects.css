@@ -1,12 +1,6 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 @import url("https://fonts.googleapis.com/css?family=Mitr:700");
 
-.desktop-3 {
-  margin: auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 .desktop-3 .flex-col {
   align-items: flex-end;
   display: flex;
