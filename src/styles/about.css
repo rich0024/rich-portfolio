@@ -2,7 +2,9 @@
 
 .desktop-4 .overlap-group {
   margin: auto;
+  min-height: 400px;
   padding: 30px 62px;
+  width: 707px;
   border-radius: 25px;
   border: 8px solid rgb(27, 209, 255);
   background-color: rgb(255, 255, 255);
