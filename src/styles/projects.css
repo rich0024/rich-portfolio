@@ -63,6 +63,7 @@
   pointer-events: auto;
   text-align: center;
   transition: all 0.2s ease;
+  margin: 30px;
 }
 .desktop-3 .p-r-o-j-e-c-t-s:hover {
   transform: translate(0, -5px);
