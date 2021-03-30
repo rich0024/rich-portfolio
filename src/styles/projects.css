@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Mitr:700");
 
 .desktop-3 {
-  margin: auto;
+  margin: 15px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -21,7 +21,6 @@
   font-size: 30px;
   font-style: normal;
   font-weight: 600;
-  margin: 20;
 }
 .desktop-3 .description {
   font-weight: bold;
