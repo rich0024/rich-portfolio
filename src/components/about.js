@@ -41,6 +41,7 @@ class Desktop4 extends React.Component {
           <p className="text-1 valign-text-middle mitr-medium-black-13px">{text1}</p>
           <br></br>
           <br></br>
+          <br />
           <div className="icons">
           <Icon icon={rubyIcon} width="80" height="80"/>
           <Icon icon={railsIcon} width="80" height="80"/>

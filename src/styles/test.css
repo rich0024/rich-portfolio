@@ -9,6 +9,7 @@
   background-color: rgb(255, 255, 255);
   padding: 10px, 10px;
   box-shadow: 10px 10px 18px #2e2e2e;
+  min-width: 250px;
   }
   .auto-flex {
     align-items: center;
