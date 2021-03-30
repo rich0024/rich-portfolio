@@ -15,6 +15,13 @@
   min-height: 842px;
   width: 715px;
 }
+.desktop-3 .h1 {
+  color: var(--azure-radiance);
+  font-family: "Mitr", Helvetica, Arial, serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 600;
+}
 .desktop-3 .js-journal {
   font-family: 'Montserrat', sans-serif;
   border-radius: 25px;
