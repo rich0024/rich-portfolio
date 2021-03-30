@@ -29,20 +29,24 @@ class Desktop3 extends React.Component {
         <div className="flex-col">
 
           <div className='js-journal'>
-            <h2>Training Journal(javascript)</h2>
+          <h1>Training Journal(javascript)</h1>
           <a href="https://drive.google.com/file/d/1Iae5GWg_UZQ4vHRJ3WDZaidWk6wwb46u/view">
           <p>Demo</p>
           </a>
-          <h3>SPA which allows the user to create and log a workout routine</h3>
-          <p>-Utilized Javascript asynchronicity to create a faster user experience
-          -Implemented a local API and integrated with the front end
-          -Employed multiple event listeners using Fetch to enhance functionality</p>
+          <h2>SPA which allows the user to create and log a workout routine</h2>
+          <p>-Utilized Javascript asynchronicity to create a faster user experience</p>
+          <p>-Implemented a local API and integrated with the front end</p>
+          <p>-Employed multiple event listeners using Fetch to enhance functionality</p>
           </div>
 
           <div className='recipe'>
-          <a href="https://drive.google.com/file/d/1bOysEO40yupx5xljQUtMLGxPuHuwOPKc/view">
-          <img className="frame-7" src={frame7} />
-          </a>
+          <h1>Recipe Book</h1>
+          <a href="https://drive.google.com/file/d/1bOysEO40yupx5xljQUtMLGxPuHuwOPKc/view">Demo</a> |
+          <a href="https://github.com/rich0024/my-recipe-book">Github</a> |
+          <a href="http://sleepy-fortress-33259.herokuapp.com/">Visit</a>
+          <h2>React based project with user experience in mind which allows for sharing and scrolling of recipes</h2>
+          <p>-SPA with React and Redux frontend, backend built with Ruby on Rails</p>
+          <p>-Utilized Web Tokens and PostgreSQL to store encrypted user information client-side</p>
           </div>
 
           <div className='rails-journal'>
