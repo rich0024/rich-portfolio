@@ -37,7 +37,7 @@ class Desktop3 extends React.Component {
           <p>-Implemented a local API and integrated with the front end</p>
           <p>-Employed multiple event listeners using Fetch to enhance functionality</p>
           </div>
-
+          <br />
           <div className='recipe'>
           <h1 className='proj-title'>Recipe Book</h1>
           <a href="https://drive.google.com/file/d/1bOysEO40yupx5xljQUtMLGxPuHuwOPKc/view">Demo</a>-
@@ -47,7 +47,7 @@ class Desktop3 extends React.Component {
           <p>-SPA with React and Redux frontend, backend built with Ruby on Rails</p>
           <p>-Utilized Web Tokens and PostgreSQL to store encrypted user information client-side</p>
           </div>
-
+          <br />
           <div className='rails-journal'>
           <h1 className='proj-title'>Training Journal(javascript)</h1>
           <a href="https://drive.google.com/file/d/1FXQ9gUdFAMwycyWnFQ60YekbwIzC0JiG/view">Demo</a>-
