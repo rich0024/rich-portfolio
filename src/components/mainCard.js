@@ -72,7 +72,7 @@ class Group1 extends React.Component {
             <div className="resume mitr-semi-bold-scooter-18px">{resume}</div>
             <div className="bidownload smart-layers-pointers ">
               <div className="overlap-group3">
-                <a href='https://drive.google.com/file/d/1pqdneSG4s_wRxju_yg3udsPbUJxPyr0v/view?usp=sharing'>
+                <a href='https://drive.google.com/file/d/1Pq45767Ywh7nw1zx4IY5974tCLokMXWs/view?usp=sharing'>
                 <img className="vector-4 smart-layers-pointers " src={vector5} />
                 <img className="vector-5" src={vector6} />
                 </a>
