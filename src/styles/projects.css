@@ -27,6 +27,7 @@
   font-size: 18;
 }
 .desktop-3 .js-journal {
+  position: flex-start;
   font-family: 'Montserrat', sans-serif;
   border-radius: 25px;
   margin: auto;
