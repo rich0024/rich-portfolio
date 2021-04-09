@@ -29,10 +29,10 @@ class Desktop3 extends React.Component {
         <div className="flex-col">
 
           <div className='js-journal'>
-          <h1 className='proj-title'>Training Journal(javascript)</h1>
+          <h1 className='proj-title'>Training Journal(Javascript)</h1>
           <a href="https://drive.google.com/file/d/1Iae5GWg_UZQ4vHRJ3WDZaidWk6wwb46u/view">Demo</a>-
           <a href="https://github.com/rich0024/TrainingJournal2">Github</a>
-          <h2 className='description'>SPA which allows the user to create and log a workout routine</h2>
+          <h2 className='description'>SPA which allows the user to create and log a workout routine. Great for keeping trainers, instructors or individuals who like to have a plan</h2>
           <p>-Utilized Javascript asynchronicity to create a faster user experience</p>
           <p>-Implemented a local API and integrated with the front end</p>
           <p>-Employed multiple event listeners using Fetch to enhance functionality</p>
@@ -49,7 +49,7 @@ class Desktop3 extends React.Component {
           </div>
           <br />
           <div className='rails-journal'>
-          <h1 className='proj-title'>Training Journal(javascript)</h1>
+          <h1 className='proj-title'>Training Journal(Ruby on Rails)</h1>
           <a href="https://drive.google.com/file/d/1FXQ9gUdFAMwycyWnFQ60YekbwIzC0JiG/view">Demo</a>-
           <a href="https://github.com/rich0024/TrainingJournal">Github</a>
           <h2 className='description'>A multi-page web application which allows the user to plan and track workout routines.</h2>
