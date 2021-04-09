@@ -32,7 +32,7 @@ class Desktop3 extends React.Component {
           <h1 className='proj-title'>Training Journal(Javascript)</h1>
           <a href="https://drive.google.com/file/d/1Iae5GWg_UZQ4vHRJ3WDZaidWk6wwb46u/view">Demo</a>-
           <a href="https://github.com/rich0024/TrainingJournal2">Github</a>
-          <h2 className='description'>SPA which allows the user to create and log a workout routine. Great for keeping trainers, instructors or individuals who like to have a plan</h2>
+          <h2 className='description'>SPA which allows the user to create and log a workout routine. Great for instructors or individuals who like to have a plan</h2>
           <p>-Utilized Javascript asynchronicity to create a faster user experience</p>
           <p>-Implemented a local API and integrated with the front end</p>
           <p>-Employed multiple event listeners using Fetch to enhance functionality</p>
