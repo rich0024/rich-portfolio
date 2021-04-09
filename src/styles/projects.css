@@ -37,6 +37,7 @@
   line-height: 1.2;
 }
 .desktop-3 .recipe {
+  position: flex-start;
   font-family: 'Montserrat', sans-serif;
   border-radius: 25px;
   margin: auto;
