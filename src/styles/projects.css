@@ -51,6 +51,7 @@
   line-height: 1.2;
 }
 .desktop-3 .p-r-o-j-e-c-t-s {
+  display: flex;
   letter-spacing: 0px;
   margin-top: 152px;
   min-height: 675px;
