@@ -51,6 +51,7 @@
   line-height: 1.2;
 }
 .desktop-3 .mitr-bold-black-48px {
+  display: flex;
   align-self: center;
   justify-self: center;
   color: black;
