@@ -51,6 +51,7 @@
   line-height: 1.2;
 }
 .mitr-bold-black-48px {
+  align-self: center;
   color: black;
   font-family: "Mitr", Helvetica;
   font-size: 48px;
