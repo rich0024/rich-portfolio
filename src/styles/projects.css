@@ -53,6 +53,8 @@
   line-height: 1.2;
 }
 .desktop-3 .p-r-o-j-e-c-t-s {
+  align-self: center;
+  align-items: center;
   min-height: 15px;
   pointer-events: auto;
   transition: all 0.2s ease;
