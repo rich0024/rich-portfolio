@@ -3,6 +3,7 @@
 
 .desktop-3 {
   align-content: center;
+  grid-area: box3;
 }
 .desktop-3 .proj-title {
   color: var(--azure-radiance);

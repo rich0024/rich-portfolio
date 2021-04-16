@@ -4,8 +4,6 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
-}
-main {
     height: 100vh;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -16,10 +14,4 @@ main {
 }
 .desktop-4 {
     grid-area: box2;
-}
-.group-1 {
-    grid-area: box1;
-}
-.desktop-3 {
-    grid-area: box3;
 }
