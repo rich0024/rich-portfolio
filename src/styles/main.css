@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 .group-1 {
-  display: flex;
+  display: flexbox;
   align-items: center;
   border-radius: 25px;
   margin: auto;
