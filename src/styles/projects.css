@@ -4,6 +4,7 @@
 .desktop-3 {
   display: flexbox;
   align-content: center;
+  width: 40%;
 }
 .desktop-3 .proj-title {
   color: var(--azure-radiance);
