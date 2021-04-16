@@ -16,7 +16,7 @@ class Desktop3 extends React.Component {
   render() {
     return (
       <div className="desktop-3">
-        <h1 className="p-r-o-j-e-c-t-s mitr-bold-black-48px animate-enter smart-layers-pointers ">P R O J E C T S</h1>
+        <h1 className="mitr-bold-black-48px">P R O J E C T S</h1>
         <br></br>
         <Carousel>
           <Carousel.Item >
