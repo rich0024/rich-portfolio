@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:500");
-
+.desktop-4 {
+  display: flexbox;
+}
 .desktop-4 .overlap-group {
   margin: auto;
   height: 425px;
