@@ -7,14 +7,6 @@
   justify-content: center;
   align-items: center;
 }
-.desktop-3 .flex-col {
-  align-items: flex-end;
-  display: flex;
-  flex-direction: column;
-  margin-top: 95px;
-  min-height: 842px;
-  width: 715px;
-}
 .desktop-3 .proj-title {
   color: var(--azure-radiance);
   font-family: "Mitr", Helvetica, Arial, serif;
