@@ -50,8 +50,9 @@
   box-shadow: 10px 10px 18px #2e2e2e;
   line-height: 1.2;
 }
-.mitr-bold-black-48px {
+.desktop-3 .mitr-bold-black-48px {
   align-self: center;
+  justify-self: center;
   color: black;
   font-family: "Mitr", Helvetica;
   font-size: 48px;
