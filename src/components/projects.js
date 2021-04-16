@@ -6,7 +6,7 @@ class Projects extends React.Component {
       <Desktop3
       pROJECTS={
         <>
-          P<br />R<br />O<br />J<br />E<br />C<br />T<br />S
+          P R O J E C T S
         </>
       }
       />
