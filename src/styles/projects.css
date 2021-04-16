@@ -52,6 +52,7 @@
 }
 .desktop-3 .mitr-bold-black-48px {
   display: flex;
+  align-items: center;
   align-self: center;
   justify-self: center;
   color: black;
