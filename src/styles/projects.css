@@ -59,9 +59,6 @@
   justify-self: center;
   min-height: 15px;
 }
-.desktop-3 .p-r-o-j-e-c-t-s:hover {
-  transform: translate(0, -5px);
-}
 .mitr-bold-black-48px {
   color: black;
   font-family: "Mitr", Helvetica;
