@@ -4,9 +4,6 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
-
-}
-main {
     height: 100vh;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
