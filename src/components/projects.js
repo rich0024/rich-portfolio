@@ -16,9 +16,9 @@ class Desktop3 extends React.Component {
   render() {
     return (
       <div className="desktop-3">
-        <h1 className="mitr-bold-black-48px">P R O J E C T S</h1>
         <br></br>
         <Carousel>
+          <h1 className="mitr-bold-black-48px">P R O J E C T S</h1>
           <Carousel.Item >
           <div className='js-journal'>
           <h1 className='proj-title'>Training Journal(Javascript)</h1>
