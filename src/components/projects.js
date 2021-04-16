@@ -1,7 +1,4 @@
 import React from "react";
-import Frame1 from '../assets/frame1.svg';
-import Frame2 from '../assets/frame2.svg';
-import Frame3 from '../assets/frame3.svg'
 
 class Projects extends React.Component {
   render() {
