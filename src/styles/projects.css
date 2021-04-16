@@ -56,9 +56,8 @@
   align-self: center;
   align-items: center;
   justify-self: center;
+  justify-self: center;
   min-height: 15px;
-  pointer-events: auto;
-  transition: all 0.2s ease;
 }
 .desktop-3 .p-r-o-j-e-c-t-s:hover {
   transform: translate(0, -5px);
