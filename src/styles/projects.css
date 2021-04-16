@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Mitr:700");
 
 .desktop-3 {
+  display: flex;
   align-items: center;
   width: 66%;
   grid-area: box3;
