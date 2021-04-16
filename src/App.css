@@ -6,18 +6,18 @@ body {
     background-size: cover;
     height: 100vh;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-template-areas:
+        "box1 box2"
+        "box3 box3";
 }
 .desktop-4 {
-    grid-column: 3/4;
-    grid-row: 1/2;
+    grid-area: box2;
 }
 .group-1 {
-    grid-column: 2/3;
-    grid-row: 2/3;
+    grid-area: box1;
 }
 .desktop-3 {
-    grid-column: 1/4;
-    grid-row: 3/4;
+    grid-area: box3;
 }
