@@ -2,8 +2,8 @@
 @import url("https://fonts.googleapis.com/css?family=Mitr:700");
 
 .desktop-3 {
-  display: flex;
-  width: 40%;
+  display: flexbox;
+  align-content: center;
 }
 .desktop-3 .proj-title {
   color: var(--azure-radiance);
