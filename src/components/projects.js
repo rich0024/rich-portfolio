@@ -24,7 +24,6 @@ class Desktop3 extends React.Component {
     return (
       <div className="desktop-3">
         <h1 className="p-r-o-j-e-c-t-s mitr-bold-black-48px animate-enter smart-layers-pointers ">{pROJECTS}</h1>
-        <br></br>
         <Carousel>
           <Carousel.Item >
           <div className='js-journal'>
