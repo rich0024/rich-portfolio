@@ -1,4 +1,5 @@
 import React from "react";
+import Carousel from 'react-bootstrap/Carousel'
 
 class Projects extends React.Component {
   render() {
@@ -23,8 +24,9 @@ class Desktop3 extends React.Component {
     return (
       <div className="desktop-3">
         <h1 className="p-r-o-j-e-c-t-s mitr-bold-black-48px animate-enter smart-layers-pointers ">{pROJECTS}</h1>
-        <div className="flex-col">
 
+        <Carousel>
+          <Carousel.Item >
           <div className='js-journal'>
           <h1 className='proj-title'>Training Journal(Javascript)</h1>
           <a href="https://drive.google.com/file/d/1Iae5GWg_UZQ4vHRJ3WDZaidWk6wwb46u/view">Demo</a>-
@@ -34,7 +36,8 @@ class Desktop3 extends React.Component {
           <p>-Implemented a local API and integrated with the front end</p>
           <p>-Employed multiple event listeners using Fetch to enhance functionality</p>
           </div>
-          <br />
+          </Carousel.Item>
+          <Carousel.Item >
           <div className='recipe'>
           <h1 className='proj-title'>Recipe Book</h1>
           <a href="https://drive.google.com/file/d/1bOysEO40yupx5xljQUtMLGxPuHuwOPKc/view">Demo</a>-
@@ -44,7 +47,8 @@ class Desktop3 extends React.Component {
           <p>-SPA with React and Redux frontend, backend built with Ruby on Rails</p>
           <p>-Utilized Web Tokens and PostgreSQL to store encrypted user information client-side</p>
           </div>
-          <br />
+          </Carousel.Item>
+          <Carousel.Item>
           <div className='rails-journal'>
           <h1 className='proj-title'>Training Journal(Ruby on Rails)</h1>
           <a href="https://drive.google.com/file/d/1FXQ9gUdFAMwycyWnFQ60YekbwIzC0JiG/view">Demo</a>-
@@ -55,7 +59,8 @@ class Desktop3 extends React.Component {
           <p>-Enabled the user to create, read, update and delete (CRUD) workout routines</p>
           <p>-Used foundational code to create classes, class methods, instance methods, while and for loops, array iteration, syntax, string interpolation, and object orientation</p>
           </div>
-        </div>
+          </Carousel.Item>
+        </Carousel>
       </div>
     );
   }
