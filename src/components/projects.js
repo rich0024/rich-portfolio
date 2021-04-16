@@ -4,13 +4,7 @@ import Carousel from 'react-bootstrap/Carousel'
 class Projects extends React.Component {
   render() {
     return (
-      <Desktop3
-      pROJECTS={
-        <>
-          P R O J E C T S
-        </>
-      }
-      />
+      <Desktop3/>
     );
   }
 }
@@ -20,10 +14,9 @@ export default Projects;
 
 class Desktop3 extends React.Component {
   render() {
-    const { pROJECTS } = this.props;
     return (
       <div className="desktop-3">
-        <h1 className="p-r-o-j-e-c-t-s mitr-bold-black-48px animate-enter smart-layers-pointers ">{pROJECTS}</h1>
+        <h1 className="p-r-o-j-e-c-t-s mitr-bold-black-48px animate-enter smart-layers-pointers ">P R O J E C T S</h1>
         <br></br>
         <Carousel>
           <Carousel.Item >
