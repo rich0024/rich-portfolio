@@ -30,11 +30,7 @@ class Group1 extends React.Component {
     } = this.props;
 
     return (
-      <div>
-        <br></br>
-        <br></br>
-        <br></br>
-        <br></br>
+      <div className="grid1">
       <div className="group-1">
 
         <div className="overlap-group2">

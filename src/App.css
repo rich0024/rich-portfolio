@@ -15,6 +15,14 @@ body {
         ". box3 box3 box3 box3 box3 ."
         ". . . . . . .";
 }
-.desktop-4 {
+.desktop-3 {
+    grid-area: box3;
+    align-items: center;
+    justify-content: center;
+}
+.grid1 {
+    grid-area: box1;
+}
+.grid2 {
     grid-area: box2;
 }
