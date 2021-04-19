@@ -6,8 +6,8 @@ body {
     background-size: cover;
 }
 .main {
-    height: 100vh;
     display: grid;
+    height: 100vh;
     grid-template-columns: repeat(9, 1fr);
     grid-template-rows: repeat(9, 1fr);
     grid-template-areas:
