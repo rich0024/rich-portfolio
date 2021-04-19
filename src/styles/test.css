@@ -2,7 +2,6 @@
 @import url("https://fonts.googleapis.com/css?family=Mitr:600");
   .group-1 {
   grid-area: box1;
-  display: flex;
   align-items: center;
   border-radius: 25px;
   margin: auto;
