@@ -4,8 +4,7 @@
 .main .desktop-3 {
   align-items: center;
   justify-content: center;
-  grid-column: 3/8;
-  grid-row: 7/9;
+  grid-area: box3;
 }
 .desktop-3 .proj-title {
   color: var(--azure-radiance);

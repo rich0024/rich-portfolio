@@ -10,8 +10,17 @@ body {
     display: grid;
     grid-template-columns: repeat(9, 1fr);
     grid-template-rows: repeat(9, 1fr);
+    grid-template-areas:
+        ". . . . . . . . ."
+        ". . . . . . . . ."
+        ". . box1 box1 box2 box2 box2 . ."
+        ". . box1 box1 box2 box2 box2 . ."
+        ". . box1 box1 box2 box2 box2 . ."
+        ". . . . . . . . ."
+        ". . box3 box3 box3 box3 box3 . ."
+        ". . box3 box3 box3 box3 box3 . ."
+        ". . . . . . . . .";
 }
-.main .desktop-4 {
-    grid-column: 5/8;
-    grid-row: 3/6;
+.desktop-4 {
+    grid-area: box2;
 }

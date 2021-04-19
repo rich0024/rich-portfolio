@@ -1,8 +1,7 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 @import url("https://fonts.googleapis.com/css?family=Mitr:600");
-.main .group-1 {
-  grid-column: 3/5;
-  grid-row: 3/6;
+  .group-1 {
+  grid-area: box1;
   display: flex;
   align-items: center;
   border-radius: 25px;
