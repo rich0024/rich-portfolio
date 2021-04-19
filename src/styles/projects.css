@@ -5,7 +5,7 @@
   align-items: center;
   justify-content: center;
   grid-column: 3/8;
-  grid-row: 7/8;
+  grid-row: 7/9;
 }
 .desktop-3 .proj-title {
   color: var(--azure-radiance);
