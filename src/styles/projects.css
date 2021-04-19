@@ -4,7 +4,8 @@
 .desktop-3 {
   align-items: center;
   justify-content: center;
-  grid-area: box3;
+  grid-column: 3/8;
+  grid-row: 7/8;
 }
 .desktop-3 .proj-title {
   color: var(--azure-radiance);
@@ -18,7 +19,7 @@
   font-size: 18;
 }
 .desktop-3 .js-journal {
-  width: 66%;
+  width: 100%;
   font-family: 'Montserrat', sans-serif;
   border-radius: 25px;
   margin: auto;
@@ -29,7 +30,7 @@
   line-height: 1.2;
 }
 .desktop-3 .recipe {
-  width: 66%;
+  width: 100%;
   font-family: 'Montserrat', sans-serif;
   border-radius: 25px;
   margin: auto;
@@ -41,7 +42,7 @@
 }
 .desktop-3 .rails-journal {
   font-family: 'Montserrat', sans-serif;
-  width: 66%;
+  width: 100%;
   border-radius: 25px;
   margin: auto;
   border: 8px solid rgb(27, 209, 255);
