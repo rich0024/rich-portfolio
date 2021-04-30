@@ -23,13 +23,16 @@ body {
         ". . . . . . .";
 }
 .desktop-3 {
+    position: fixed;
     grid-area: box3;
     align-items: center;
     justify-content: center;
 }
 .grid1 {
+    position: fixed;
     grid-area: box1;
 }
 .grid2 {
+    position: fixed;
     grid-area: box2;
 }
