@@ -12,6 +12,8 @@ class App extends React.Component {
     return(
     <div className='main'>
       <div className='nav'></div>
+      <br></br>
+      <br></br>
       <MainCard />
       <About />
       <Projects />

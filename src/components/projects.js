@@ -49,7 +49,8 @@ class Desktop3 extends React.Component {
           <p>-Applied omniauth for user login with github</p>
           <p>-Maintained MVC structure using Ruby on Rails</p>
           <p>-Enabled the user to create, read, update and delete (CRUD) workout routines</p>
-          <p>-Used foundational code to create classes, class methods, instance methods, while and for loops, array iteration, syntax, string interpolation, and object orientation</p>
+          <p>-Used foundational code to create classes, class methods, instance methods, while and for loops, array iteration, 
+            syntax, string interpolation, and object orientation</p>
           </div>
           </Carousel.Item>
         </Carousel>
