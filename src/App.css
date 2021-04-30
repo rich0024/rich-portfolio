@@ -5,6 +5,10 @@ body {
     background-position: center;
     background-size: cover;
 }
+.nav {
+    background-color: black;
+    position: fixed;
+}
 .main {
     display: grid;
     height: 100vh;
