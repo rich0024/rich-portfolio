@@ -4,6 +4,7 @@ import './styles/about.css';
 import MainCard from './components/mainCard.js';
 import About from './components/about.js';
 import Projects from './components/projects.js';
+import ContactUs from './components/contact.js';
 import React from 'react';
 
 
@@ -17,6 +18,7 @@ class App extends React.Component {
       <MainCard />
       <About />
       <Projects />
+      <ContactUs />
     </div>
     )
   }
